@@ -1,6 +1,4 @@
 import javax.swing.*;
-import java.awt.*;
-
 public class Exp20{
 	public static void main(String args[]){
 		JFrame frame = new JFrame("Menu Bar");
